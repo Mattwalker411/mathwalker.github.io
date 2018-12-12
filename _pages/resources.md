@@ -28,6 +28,8 @@ Texts that I used (and liked) for various undergrad courses that are free on the
 ## Selected publications
 * [The Mpemba index and anomalous relaxation, M. Vucelja, O. Raz, O. Hirschberg and I. Klich](https://arxiv.org/abs/1711.05829)
 * [The electronic properties of bilayer graphene, Edward McCann and Mikito Koshino](https://arxiv.org/abs/1205.6953)
+* [Z2 topological order and Quantum spin Hall effect, C.L. Kane and E.J. Mele ](https://arxiv.org/pdf/cond-mat/0506581.pdf)
+* [Topological Insulators in Three Dimension, Liang Fu, C.L. Kane and E.J. Mele](https://arxiv.org/pdf/cond-mat/0607699.pdf)
 
 ## Friends website's
 * [Syed Raza, Graduate student at UVA](https://sites.google.com/view/sraza/research?authuser=0)
