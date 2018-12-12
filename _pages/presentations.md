@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
-title: "Presentations"
+title: "Presentations/talks"
 tags:
 permalink: /presentations/
 ---
