@@ -28,3 +28,9 @@ Texts that I used (and liked) for various undergrad courses that are free on the
 ## Selected publications
 * [The Mpemba index and anomalous relaxation, M. Vucelja, O. Raz, O. Hirschberg and I. Klich](https://arxiv.org/abs/1711.05829)
 * [The electronic properties of bilayer graphene, Edward McCann and Mikito Koshino](https://arxiv.org/abs/1205.6953)
+
+## Friends website's
+* [Syed Raza, Graduate student at UVA](https://sites.google.com/view/sraza/research?authuser=0)
+* [Brian Seymour, Undergraduate at UVA](https://www.briancseymour.com/)  
+* [Steven Stetzler, graduate student at UWash](https://stevenstetzler.com/)
+* [Marija Vucelja, Assitant professor at UVA](https://sites.google.com/site/mashavucelja/)
