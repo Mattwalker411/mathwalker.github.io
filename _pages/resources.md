@@ -8,7 +8,7 @@ permalink: /resources/
 ---
 ## helpful links:
 
-* [SPS page at UVA](https://pages.shanti.virginia.edu/SPS_at_UVA/)
+* [SPS page at UVA](https://spsatuva.github.io/)
 * [Math club at UVA](http://pi.math.virginia.edu/mathclub/)
 * [Github](https://github.com/Mattwalker411)
 
