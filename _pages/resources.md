@@ -17,11 +17,11 @@ Texts that I used (and liked) for various undergrad courses that are free on the
 
 * [Topology, James Munkres, 2nd edition](http://webmath2.unito.it/Munkres.pdf)
 
-* [Spacetime and Geometry, Sean Carrol, International edition](http://physics.muni.cz/~novotny/-OTRG/Sean%20Carroll.pdf)
+* [Spacetime and Geometry, Sean Carroll, International edition](http://physics.muni.cz/~novotny/-OTRG/Sean%20Carroll.pdf)
 
 * [Differential Geometry of Curves and Surfaces, Manfredo P. do Carmo, 1st edition](http://www.math.uni.lodz.pl/~maczar/ggk/do%20Carmo.pdf)
 
-* [Understanding Analysis, Stephen Abott, 2nd edition](http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf)
+* [Understanding Analysis, Stephen Abbott, 2nd edition](http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf)
 
 
 
