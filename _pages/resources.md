@@ -35,4 +35,4 @@ Texts that I used (and liked) for various undergrad courses that are free on the
 * [Syed Raza, Graduate student at UVA](https://sites.google.com/view/sraza/research?authuser=0)
 * [Brian Seymour, Undergraduate at UVA](https://www.briancseymour.com/)  
 * [Steven Stetzler, graduate student at UWash](https://stevenstetzler.com/)
-* [Marija Vucelja, Assitant professor at UVA](https://sites.google.com/site/mashavucelja/)
+* [Marija Vucelja, Assistant professor at UVA](https://sites.google.com/site/mashavucelja/)
