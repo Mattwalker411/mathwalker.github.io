@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Matt Walker "
 title_separator          : "-"
 name                     : "Matt Walker"
-description              : "Physics major and student at UVA "
+description              : "grad student at UVA "
 url                      : "https://mathwalker.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/website" # the subpath of your site, e.g. "/blog"
 repository               : "smelldadirt411/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,7 +110,7 @@ analytics:
 author:
   name             :  "Matt Walker"
   avatar           :  "/assets/images/me.JPG"
-  bio              :  "4th year physics major at University of Virginia."
+  bio              :  "grad student at University of Virginia."
   location         :  "Charlottesville, Virginia"
   email            :  #mrw3te@virginia.com
   links:
