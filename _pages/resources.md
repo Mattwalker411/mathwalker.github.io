@@ -6,7 +6,7 @@ title: "Resources"
 tags:
 permalink: /resources/
 ---
-## helpful links:
+## helpful links
 
 * [SPS page at UVA](https://spsatuva.github.io/)
 * [Math club at UVA](https://math.virginia.edu/seminars/mathclub/)
