@@ -14,7 +14,7 @@ permalink: /resources/
 * [Good Reads](https://www.goodreads.com/user/show/97757643-matt-walker)
 
 ## Friends website's
-* [Syed Raza, former Graduate student at UVA and helpful friend](https://sites.google.com/view/sraza/research?authuser=0)
-* [Brian Seymour, Graduate student at Caltech and my best friend](https://www.briancseymour.com/)  
+* [Syed Raza, former graduate student at UVA and helpful friend](https://sites.google.com/view/sraza/research?authuser=0)
+* [Brian Seymour, graduate student at Caltech and my best friend](https://www.briancseymour.com/)  
 * [Steven Stetzler, graduate student at UWash and we built the SPS website together](https://stevenstetzler.com/)
-* [Marija Vucelja, Assistant professor at UVA and my advisor](https://sites.google.com/site/mashavucelja/)
+* [Marija Vucelja, assistant professor at UVA and my advisor](https://sites.google.com/site/mashavucelja/)
