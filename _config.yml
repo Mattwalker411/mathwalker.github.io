@@ -23,7 +23,7 @@ description              : "grad student at UVA "
 url                      : "https://mathwalker.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/website" # the subpath of your site, e.g. "/blog"
 repository               : "smelldadirt411/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/GW.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "MathWalkerUVA"
+  username               : 
 facebook:
   username               :
   app_id                 :
