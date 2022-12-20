@@ -11,10 +11,14 @@ permalink: /presentations/
 
 ### Mpemba effect of Langevin particles
 
- * M. Walker, and M. Vucelja. ["Anomalous thermal relaxation of Langevin particles in a piecewise constant potential."](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2105.10656&sa=D&sntz=1&usg=AFQjCNGxEt2rHMQ_EtXYkXqV5F89u5Ll-Q) arXiv: [2105.10656](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2105.10656&sa=D&sntz=1&usg=AFQjCNGxEt2rHMQ_EtXYkXqV5F89u5Ll-Q), May 22nd, 2021. 
- 
- * Matt Walker, Marija Vucelija. "Anomalous Thermal Relaxation and the Mpemba Effect of Langevin Particles," APS March Meeting, March 4-8, 2019. Boston, MA.
+ * M.R. Walker and Marija Vucelja. ["Mpemba effect in terms of mean first passage times of overdamped Langevin dynamics on a double-well potential"](https://arxiv.org/pdf/2212.07496) Dec. 14th, 2022
 
+ * M.R. Walker, and M. Vucelja. ["Anomalous thermal relaxation of Langevin particles in a piecewise constant potential."](https://iopscience.iop.org/article/10.1088/1742-5468/ac2edc/meta), Nov. 11th, 2021. 
+ 
+ * M. R. Walker, Marija Vucelija. "Anomalous Thermal Relaxation and the Mpemba Effect of Langevin Particles," APS March Meeting, March 4-8, 2019. Boston, MA.
+
+### Mpemba effect in linear chemical networks 
+ * M.R. Walker, S. Bera, M. Vucelja. Anomalous thermal relaxation in unimolecular chemical reactions. Preprint coming soon. 
 
 ### Bilayer Graphene
 
