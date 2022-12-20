@@ -20,7 +20,7 @@ permalink: /presentations/
 ### Mpemba effect in linear chemical networks 
  * M.R. Walker, S. Bera, M. Vucelja. Anomalous thermal relaxation in unimolecular chemical reactions. Preprint coming soon. 
 
-### Bilayer Graphene
+### Bilayer Graphene--My first steps in research 
 
 * Andrew Jiao, Aaron Winn, Charlie Maier, Juan Velasco, Matt Walker, Jeffrey C.Y. Teo. [“Topological Channels in Bilayer Graphene in Electric and Magnetic Fields,”](https://drive.google.com/file/d/1DzDxosOYDxYiZ4dMJlk3bm9bDyQzf2OH/view) APS April meeting, April 16th, 2018. Columbus, OH. (Poster)
 
