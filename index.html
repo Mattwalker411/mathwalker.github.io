@@ -5,3 +5,10 @@ title: " "
 header:
   overlay_image: /assets/images/3_donut_coffee.jpg
 ---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
