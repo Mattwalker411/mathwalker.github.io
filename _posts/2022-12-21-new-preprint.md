@@ -2,7 +2,7 @@
 layout: posts
 title: "New prepint avaible"
 ---
-# New Preprint Dec. 20202
+# New Preprint Dec. 2022
 
 Marija and I put a preprint about the Mpmeba effect on arXiv about the Mpemba effect observed, in the experiment completed by A. Kumar and J. Bechhoefer. Exponentially faster cool-ing in a colloidal system. Nature, 584(7819):64–68, 2020.
 
