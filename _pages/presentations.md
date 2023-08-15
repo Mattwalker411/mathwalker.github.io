@@ -9,19 +9,19 @@ permalink: /presentations/
 
 ### Articles
 
-## Mpemba effect in Langevin Particles 
+## Mpemba effect of Langevin Particles 
 
  * M.R. Walker and Marija Vucelja. ["Mpemba effect in terms of mean first passage times of overdamped Langevin dynamics on a double-well potential"](https://arxiv.org/pdf/2212.07496) arXiv preprint--Dec. 14th, 2022.
 
  * M.R. Walker, and M. Vucelja. ["Anomalous thermal relaxation of Langevin particles in a piecewise constant potential."](https://iopscience.iop.org/article/10.1088/1742-5468/ac2edc/meta), Journal of Statistical Mechanics: Theory and Experiment--Nov. 11th, 2021. 
 
- 
-
 
 ## Mpemba effect in linear chemical networks 
- * M.R. Walker, S. Bera, M. Vucelja. Anomalous thermal relaxation in unimolecular chemical reactions. Preprint coming soon. 
+ * M.R. Walker, S. Bera, M. Vucelja. ["Effect of dynamics on anomalous thermal relaxations and information exchange"](https://arxiv.org/abs/2308.04557)
 
- 
+
+## Mpemba effect and optimal transport 
+* M.R. Walker, S. Bera, M. Vucelja. ["Optimal transport and anomalous thermal relaxations"](https://arxiv.org/abs/2307.16103)
 
 
 ### Undergradueate research 
