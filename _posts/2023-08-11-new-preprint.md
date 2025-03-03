@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "New preprint available on Mpmeba and optimal transport"
+title: "New preprint available on Mpemba and optimal transport"
 ---
 # New Preprint Aug. 2023
 
