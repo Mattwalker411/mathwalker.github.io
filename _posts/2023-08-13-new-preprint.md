@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "New preprint available on Mpmeba, Dynamics, and Maxwell's Demon"
+title: "New preprint available on Mpemba, Dynamics, and Maxwell's Demon"
 ---
 # New Preprint with Saikat Aug. 2023
 
