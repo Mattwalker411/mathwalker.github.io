@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Matthew R. Walker "
 title_separator          : "-"
 name                     : "Matthew R. Walker"
-description              : "grad student at UVA "
+description              : "Physicist and researcher "
 url                      : "https://mathwalker.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/website" # the subpath of your site, e.g. "/blog"
 repository               : "smelldadirt411/website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,8 +110,8 @@ analytics:
 author:
   name             :  "Matthew R. Walker"
   avatar           :  "/assets/images/me.JPG"
-  bio              :  "grad student at University of Virginia."
-  location         :  "Charlottesville, Virginia"
+  bio              :  "Physicist and researcher at IDA"
+  location         :  "Washington, DC"
   email            :  #mrw3te@virginia.com
   links:
     - label:          "Email"
@@ -134,7 +134,7 @@ author:
       # url:          "https://instagram.com/"
     - label:          "Linkedin"
       icon:           "fab fa-fw fa-linkedin"
-      url:            "https://www.linkedin.com/"
+      url:            "https://www.linkedin.com/in/matthew-walker-b193a1218/"
 
 
 # Site Footer
